@@ -5,7 +5,7 @@
 - 👨‍💻 Atualmente estou trabalhando na area da educação publica como agente escolar.
 - 📚 Em busca de todo o conhecimento possivel sobre frontend e backend 😅
 - 💪🏼 Metas Futuras:O futuro é uma construção do nosso esforço, determinado a aprender cada vez mais.
-- ⚡ Curiosidade: Eu amo jogar, de todos os tipos de jogos, mas principalmente HuntShowdown 🤠
+- ⚡ Curiosidade: Eu amo jogar, todos os tipos de jogos, principalmente HuntShowdown 🤠
 
 ---
 
