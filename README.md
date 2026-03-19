@@ -1,52 +1,108 @@
-# Sejam todos bem-vindos ao meu mundo!<img width="30px" src="https://media.tenor.com/2OoMGEx6w6EAAAAi/incognita.gif" />
-<img align="left" alt="GIF" height="160px" src="https://i.giphy.com/l3V0megwbBeETMgZa.webp" />
 
-### Sou um estudante de Desenvolvimento de Sistemas
-- 👨‍💻 Atualmente estou trabalhando na area da educação publica como agente escolar.
-- 📚 Em busca de todo o conhecimento possivel sobre frontend e backend 😅
-- 💪🏼 Metas Futuras:O futuro é uma construção do nosso esforço, determinado a aprender cada vez mais.
-- ⚡ Curiosidade: Eu amo jogar, todos os tipos de jogos, principalmente HuntShowdown 🤠
+
+
+#  Lucas Domingues 
+
+<p>
+  <img src="https://github.com/user-attachments/assets/d0716688-4fa7-4e0d-b8aa-0efa139bc86d" 
+       width="30%" 
+       align="right" 
+       style="margin-left: 10%;" />
+
+Atuo como **Analista de Suporte N2 em ambiente corporativo**, <br> com experiência sólida em infraestrutura, identidade e colaboração <br> (Active Directory, Microsoft 365, redes).
+
+Atualmente em transição para **Desenvolvimento de Software**,<br> com foco em construir soluções completas e bem estruturadas.
+
+## 🎓 Formação (em andamento)
+
+**Análise e Desenvolvimento de Sistemas — Senac**
+
+**Base do 1º semestre:**
+- Lógica de Programação (estrutura condicional, repetição e algoritmos)
+- Fundamentos de Sistemas Computacionais
+- Introdução ao Desenvolvimento Web
+- Modelagem e resolução de problemas computacionais
+- Boas práticas iniciais de desenvolvimento
+
+---
+
+
+---
+
+
+## ⚙️ Stack & Tecnologias
+
+**💻 Desenvolvimento**
+- HTML, CSS, JavaScript
+- Java (foco em lógica e fundamentos)
+- C# (em evolução - backend)
+
+**🏢 Infraestrutura**
+- Active Directory
+- Microsoft 365
+- Redes corporativas
+
+**🛠️ Ferramentas**
+- Git & GitHub
+- WordPress / Elementor
 
 ---
 
 
 
+## 🚀 O que estou construindo
+
+- Aplicações web completas (front + back)
+- Base sólida em lógica e estruturas de dados
+- Projetos práticos com foco em problema real
+- Organização e arquitetura de código
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+## 📂 Projetos em destaque
 
 
-<br />
 
----
+- 🔹 **Sistema de lógica em Java**  
+  Aplicação voltada para prática de estruturas condicionais e cálculos
 
-### Languages and Tools 🛠 
+- 🔹 **Site institucional responsivo**  
+  Desenvolvimento com foco em UI/UX e responsividade
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
+- 🔹 **Projetos acadêmicos (ADS - Senac)**  
+  Evolução contínua com base em fundamentos de software
 
 ---
 
-<br/>
+## 📈 Evolução atual
 
-  
-  
-<br/>
+- 🔄 Aprendendo backend (C# e conceitos de API)
+- 🔄 Estruturação de projetos mais organizados
+- 🔄 Boas práticas e versionamento
+- 🔄 Evoluindo lógica e resolução de problemas
 
-[website]: https://minha-pagina-sage.vercel.app/
-[instagram]: https://www.instagram.com/lucas.domingues___/
-[linkedin]: www.linkedin.com/in/lucasnddomingues
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasNDDomingues&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNDDomingues&layout=compact&theme=radical" />
+</p>
+
+---
 
 
+
+## 🔗 Contato
+
+- 🌐 Portfólio: https://profile-dev-sigma.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/lucasnddomingues
+
+
+---
+
+## 📌 Observação
+
+Este perfil documenta minha evolução prática na área de tecnologia.  
+Aqui você não vai ver só teoria — vai ver progresso.
